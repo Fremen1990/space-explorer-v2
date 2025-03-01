@@ -1,6 +1,21 @@
 # 🚀 Space Explorer - React Native + Phaser + TypeScript
 A 2D space shooter game built with **React Native (Expo) + Phaser.js** in TypeScript, with a future upgrade path to **Three.js** for a full 3D experience.
 
+## 💡 Some inspirations!
+
+https://dev.to/ryanvanbelkum/building-a-mobile-game-using-react-native-3320
+
+https://medium.com/@williamyang93/my-journey-with-react-native-game-engine-part-i-starting-the-project-bbebcd2ccf6
+
+https://www.youtube.com/watch?v=ruHZ8X-R1Fg
+
+https://www.youtube.com/watch?v=Af2-OT9mE14
+
+https://www.youtube.com/watch?v=hXogPCM4FS8
+
+https://github.com/bberak/react-native-game-engine
+
+
 ## 📌 **Project Structure**
 
 ```
